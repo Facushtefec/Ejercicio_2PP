@@ -1,0 +1,11 @@
+{
+    "matrices_procesadas": 24,
+    "total_vocales": 104,
+    "apariciones": {
+        "A": 23,
+        "E": 19,
+        "I": 22,
+        "O": 20,
+        "U": 20
+    }
+}
